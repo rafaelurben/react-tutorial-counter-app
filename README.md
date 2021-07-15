@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Tutorial: Counter app
+
+This project is based on the [React JS - React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) YouTube Tutorial by [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA). :)
+
+It's just a little experiment for me to learn React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
